@@ -27,7 +27,7 @@ enquanto pessoas > 0 faca
           se maior > idade entao //verifica qual é a maior idade que foi digitada e atualiza para que seja a maior
                maior <- idade
           fimse
-
+           escreva("oi")
     fimse
     total_pessoa <- total_pessoa + 1
     pessoas <- pessoas - 1
